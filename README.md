@@ -1,7 +1,7 @@
 # Mi Aprendizaje
 ![](https://i.ytimg.com/vi/aCksVW1YUHs/mqdefault.jpg)
 
-##INDICE
+## INDICE
 
 
 1. [Xml](#xml)
@@ -11,8 +11,8 @@
 5. [Enlace](#enlace-de-mi-github)
 
 
-##XML
-***Un pequeño resumen de lo aprendido sobre XML:***
+## XML
+* **Un pequeño resumen de lo aprendido sobre XML:***
 
 - Para empezar podemos decir que el lenguaje XML tiene la funcion de poder almacenar y estructurar datos de manera jerarquica por lo que esto la hace mas comprensible para los humanos y las maquinas que deben leerla y ejecutarla.
 
@@ -26,8 +26,8 @@
 
 En resumen, XML proporciona un formato estándar y flexible para almacenar y estructurar datos, facilitando su intercambio, análisis y procesamiento por parte de aplicaciones informáticas.
 
-##PYTHON
-***Un pequeño resumen de lo aprendido sobre PYTHON:***
+## PYTHON
+* **Un pequeño resumen de lo aprendido sobre PYTHON:***
 #####Este resumen sera concretamente de como python puede afectar directamente sobre XML
 - Python nos ofrece diferentes bibliotecas para poder analizar y manipular documentos XML, un ejemplo podria ser xml.etree.ElementTree, estas son las que permiten acceder a sus elementos y atributos para poder llevar a cabo los cambios que el usuario desee.
 
@@ -37,8 +37,8 @@ En resumen, XML proporciona un formato estándar y flexible para almacenar y est
 
 En resumen, Python ofrece una amplia gama de herramientas y bibliotecas para trabajar con XML, lo que permite analizar, manipular, crear, transformar y validar documentos XML de manera eficiente y flexible.
 
-##DOM
-***Un pequeño resumen de lo aprendido sobre DOM:***
+## DOM
+* **Un pequeño resumen de lo aprendido sobre DOM:***
 
 -  Para empezar debemos aclarar que es DOM, este es una API estandar la cual se encarga de representar la estructura de un documento XML como un arbol de nodos, cada nodo representaria una parte del documento, ya sean atributos,texto,etc.
 
